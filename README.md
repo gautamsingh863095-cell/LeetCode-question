@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -14,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
