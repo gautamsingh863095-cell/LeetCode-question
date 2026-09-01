@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
