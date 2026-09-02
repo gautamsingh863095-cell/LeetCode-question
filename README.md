@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -56,8 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0567-permutation-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
