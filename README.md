@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3925-concatenate-array-with-reverse](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
