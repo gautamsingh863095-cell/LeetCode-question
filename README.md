@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
