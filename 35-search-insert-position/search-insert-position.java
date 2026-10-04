@@ -1,14 +1,7 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        ArrayList<Integer> list = new ArrayList<>();
-        for(int i : nums)
-         list.add(i);
-        if(list.contains(target))
-         return list.indexOf(target);
-        else list.add(target);
-        list.sort(null);
-        return list.indexOf(target);
-            
-        
+        int index=Arrays.binarySearch(nums,target);
+        if(index>=0) return index;
+        else return -(index+1);
     }
 }
