@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
