@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1480-running-sum-of-1d-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
