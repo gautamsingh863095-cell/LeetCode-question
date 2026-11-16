@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0567-permutation-in-string) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
