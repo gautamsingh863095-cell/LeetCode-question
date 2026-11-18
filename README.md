@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
