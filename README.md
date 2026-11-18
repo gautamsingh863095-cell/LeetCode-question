@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1768-merge-strings-alternately) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
