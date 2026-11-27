@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0844-backspace-string-compare) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gautamsingh863095-cell/LeetCode-question/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
